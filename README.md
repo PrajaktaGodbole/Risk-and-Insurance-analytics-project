@@ -1,1 +1,1 @@
-# Risk-and-Insurance-analytics-project
+# Risk-and-Insurance-Analytics-Project
